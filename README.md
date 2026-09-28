@@ -143,8 +143,7 @@ An interactive, multi-page executive dashboard was built in Microsoft Excel usin
 ### Sales Overview
 
 Analyses overall financial health, historical trend trajectories, regional profit distribution, and main category revenue driver. 
-![Sales_Performance_Page](Images/Sales_Performance_page.png)
-
+![Sales_Performance_Page](Images/Sales_Performance_Page.png)
 ### Product Performance
 
 Evaluates product-level margins, top/bottom sub-categories, product sales rank, and the impact of discount levels on gross margin.
