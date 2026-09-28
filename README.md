@@ -149,8 +149,8 @@ Analyses overall financial health, historical trend trajectories, regional profi
 
 Evaluates product-level margins, top/bottom sub-categories, product sales rank, and the impact of discount levels on gross margin.
 ![Product_Performance_Page](Images/Product_Performance_Page.png)
-### Customer Performance
 
+### Customer Performance
 Focuses on customer segment behavior, purchasing frequency distributions, active monthly customer counts, and top individual revenue contributors
 ![Customer_Performance_Page](Images/Customer_Performance_Page.png)
 
