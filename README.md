@@ -143,7 +143,7 @@ An interactive, multi-page executive dashboard was built in Microsoft Excel usin
 ### Sales Overview
 
 Analyses overall financial health, historical trend trajectories, regional profit distribution, and main category revenue driver. 
-![Sales_Performance_Page](Images/Sales-Performance_Page.png)
+![Sales_Performance_Page](Images/Sales_Performance_page.png)
 
 ### Product Performance
 
@@ -157,7 +157,7 @@ Focuses on customer segment behavior, purchasing frequency distributions, active
 ### Operation & Risk Page
 
 Examines shipping duration, fulfillment mode profitability, return order volume, and logistics speed impact.
-![Operation_Performance_Page](Images/Operation_Performance-Page.png)
+![Operation_Performance_Page](Images/Operation_Performance_Page.png)
 
 
 ## Key Findings
